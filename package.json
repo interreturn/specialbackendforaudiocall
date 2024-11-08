@@ -1,0 +1,16 @@
+{
+  "name": "signaling-server",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+     "start": "node App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
